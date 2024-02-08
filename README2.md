@@ -5,11 +5,11 @@
     <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
-  Project Name
+  SPORT LEDGER
 </h1>
 
 <div align="center">
-   <strong>Project Name</strong> - One Sentence Description of your project<br>
+   <strong>SPORT LEDGER</strong> - A DIGITAL CRICKETING ERA<br>
   CoC Inheritance 2023 || Team Name <br> <br>
   Add any <a href="https://shields.io/">Shields</a> here
 </div>
@@ -34,17 +34,45 @@
 
 ## 📝Description
 
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
+A Blockchain - based, integrated web model that monitors skill verification of sportsmen, Data management , smart contracts , stats and rankings for the cricket organisations. Implementing the most secure blockchain technology elucidates organisations to verify and track their teams and players records, manage funds and contracts.
 
-1. Include features and their usecases in bullet points
+
+1. The model is a gateway to the modern sports era tailored specifically for players, organisations and their fans offering a comprehensive set of features to elevate cricketing experience. We provide you a framework to engage in online vibrant
+communities and showcase your spirits
+
+2. The web application showcases initially through a homepage which provides a subtle introduction about the framework
+accompanied by sign up and login pages for the players.
+
+3. As a user i.e. the player will sign up through his credentials which will be accessible to the cricket organisation authorities and
+stored.
+
+4. The player then will be directed to a local routed server through imported directories which requires his personal details i.e. the
+username, password (entered previously), his expertise as a batsmen or a bowler and finally his certificates. Then the user will
+submit the form and the authenticity of the details will be verified through a verification system.
+
+5. This will redirect the verification authorities specifically to the online verification system which can only be accessed by them
+and not the user. The details and certificates will be verified digitally and skilled players will be selected for the team auctions.
+
+6. A Ranking and Comparison page is enabled with public visibility to showcase the team rankings and player stats along with their
+ratings and current performance.
+
+7. This will reflect globally on the portal and enhance public interaction and auctions. The core authorities will thus analyse,
+work and build their respective teams.
+
+8. To invoke secure digital transactions and desirable funds transfer to a player’s account, smart contracts are implemented as a
+feature. The server links to Metamask framework which will be connected to the contract and transaction amount, type of funds,
+value , ID number etc will be displayed to the funding organisations through a pop-up notification.
+
+9. Likewise, the project aims to glorify cricket globally through digital security and web enhancements and can be extended to any sports in the current sphere. A contest to emulsify the spirits of a riveting sport has been the primary aim of the idea and the implementation makes an easy access to connect and develop globally.
+
+
 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/valabha23/Project_Skeleton)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [Hosted Backend Link]()
+- [Demo Video](https://drive.google.com/drive/folders/1CVuh_XwZJSiaNGPE3_sMz01cxdObPCDN)
+- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1pKobm7ea4ibT-PuoyXG6VcJVyoUZG5Zv)
+
 
 Add any more links/resources you used for your project
 
@@ -58,13 +86,13 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 - CSS
 - JavaScript
 - React
-- React.js
-- Bootstrap
+- React.js: 18.3.0
+- Bootstrap: 5.3.0
 
 #### Back-end
 - Solidity 
-- Remix Ethereum IDE
-- Ganache
+- Remix Ethereum IDE: 0.8.11
+- Ganache: 7.0.0
 - Metamask
 
 
@@ -101,7 +129,17 @@ List down all the future plans for the project here
 
 ## 🛠Project Setup
 
-> -  
+> - Web-Dev resources:
+- HTML & CSS
+- Javascript
+- Figma
+
+- Implementation:
+- LearnWeb3 (Must prac till sophomore)
+- https://www.youtube.com/watch?v=gyMwXuJrbJQ
+- https://www.youtube.com/watch?v=M576WGiDBdQ&feature=youtu.be
+
+ 
 
 ## 💻Usage
 
@@ -128,7 +166,7 @@ Add a few screenshots for parts of the project completed till now to give the vi
 
 You'll have to link the screenshots from your drive folder here.
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
+![Screenshot alt text](https://drive.google.com/file/d/1KO-6CVfQJku8j6ohWfUIH1dRlIfaR8rz/view?usp=drive_link "Here is a screenshot")
 
 Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
