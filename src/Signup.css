@@ -1,0 +1,110 @@
+/* CSS Code */
+div.signup-page {
+    
+    color: #00ff00;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+div.signup-page h1 {
+    color: #00ff00;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+div.signup-page h2 {
+    color: #00ff00;
+}
+
+.signup-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 31, 63, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
+
+.signup-form label {
+    display: block;
+    margin: 10px 0;
+    color: #00ff00;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="password"],
+.signup-form textarea,
+.signup-form select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    display: inline-block;
+    border: 1px solid #00ff00;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 0, 0.1);
+    color: #00ff00;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.signup-form input[type="radio"] {
+    margin-right: 5px;
+}
+
+.signup-form textarea {
+    width: 100%;
+    resize: vertical;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid #00ff00;
+    box-sizing: border-box;
+    background-color: rgba(0, 255, 0, 0.1);
+    color: #00ff00;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.signup-form input[type="submit"] {
+    background-color: #00ff00;
+    color: #001f3f;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.signup-form input[type="submit"]:hover {
+    background-color: #001f3f;
+    color: #00ff00;
+}
+
+.signup-form .end {
+    margin-top: 20px;
+}
+
+div.signup-page:before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background: url('img10.png');
+    animation: animateBackground 20s linear infinite;
+}
+
+@keyframes animateBackground {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 100% 0;
+    }
+}
