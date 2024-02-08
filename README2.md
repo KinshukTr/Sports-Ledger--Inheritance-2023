@@ -40,11 +40,10 @@ Add your **project description** here. Your project description should cover how
 
 ## 🔗Links
 
-- [GitHub Repository]()
+- [GitHub Repository](https://github.com/valabha23/Project_Skeleton)
 - [Demo Video]()
 - [Drive Link to Screenshots of your project]()
 - [Hosted Website Link]()
-- [App APK Link]()
 - [Hosted Backend Link]()
 
 Add any more links/resources you used for your project
@@ -82,21 +81,27 @@ List down all the fully implemented features in your project
 List down all the partially implemented features in your project
 
 - Contracts fund exchange 
+- Franchise Payout System
 
 ## 🔮Future Scope
 
 List down all the future plans for the project here
 
-- Future Feature 1
-- Future Feature 2
+- NFTs & Token management 
+- Fan's Investor 
+- Ticket club contracts 
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
+>- This model enhances both the player's as well as organisations access and transparency in governing the entire "county Sports" hub.
+- Local and international cricket councils can set up this model to manage , record and authenticate their player's stats and can transfer the funds securely.
+- The idea of the framework can be extended easily to stimulate various other Sports and their councils like football,rugby,baseball and several others.
+- Matches stats, document certifications and sponorships including ticketing sales can be implemented easily using the idea of "Blockchain Technology".
+
 
 ## 🛠Project Setup
 
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
+> -  
 
 ## 💻Usage
 
@@ -106,15 +111,17 @@ List down all the future plans for the project here
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Name](https://github.com/): Email 
-- [Team Member 2 Name](https://github.com/): Email 
+- [Team Member 1 Riyansh](https://github.com/): Email 
+- [Team Member 2 Kinshuk](https://github.com/): Email (kinshuktrivedi03@gmail.com)
+- [Team Member 1 Darshana](https://github.com/): Email (darshana23.gupta@gmail.com)
+- [Team Member 1 Nitin](https://github.com/): Email 
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Name](https://github.com/): Email 
-- [Mentor 2 Name](https://github.com/): Email 
+- [Mentor 1 Ananya](https://github.com/): Email 
+- [Mentor 2 Rushi](https://github.com/): Email 
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
