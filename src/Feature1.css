@@ -1,0 +1,126 @@
+ div.feature1-page {
+     font-family: 'Bangers', serif;
+     margin: 0;
+     padding: 0;
+     color: #fff;
+     overflow: hidden;
+     background: url('img1.jpg') ;
+     /* Replace with your own image source */
+     background-size: contain;
+     ;
+
+     background-repeat: repeat;
+     background-position: 0 0;
+     animation: animateBackground 20s linear infinite;
+     scroll-behavior: smooth;
+ }
+
+ @keyframes animateBackground {
+     0% {
+         background-position: 0 0;
+     }
+
+     100% {
+         background-position: 100% 0;
+     }
+ }
+
+
+
+ .heade {
+     background-color: rgba(0, 0, 31, 0.7);
+     /* Dark blue with opacity */
+     padding: 47px;
+     text-align: center;
+     color: #fff;
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;
+     border-bottom-left-radius: 25px;
+     border-bottom-right-radius: 25px;
+ }
+ 
+
+ h2 {
+     font-size: 46px;
+ }
+
+ h3 {
+     font-size: 26px;
+ }
+
+ 
+
+  #collage {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     margin: 20px auto;
+ }
+
+ .collage-item {
+     width: 120px;
+     height: 80px;
+     margin: 10px;
+     background-color: rgba(0, 0, 31, 0.7);
+     /* Dark blue with opacity */
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 16px;
+     font-weight: light;
+     color: #fff;
+     border-radius: 10px;
+     border: 2px solid #fff;
+     transition: transform 0.3s, box-shadow 0.3s;
+     cursor: pointer;
+ }
+
+ .collage-item:hover {
+     transform: translateY(-6px) scale(1.05);
+     box-shadow: 0 8px 14px rgba(0, 0, 0, 0.3);
+ }
+
+
+ table {
+     border-collapse: collapse;
+     width: 80%;
+     margin: 20px auto;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     border-radius: 20px;
+     overflow: hidden;
+     background-color: rgba(0, 0, 31, 0.7);
+     /* Dark blue with opacity */
+     color: #fff;
+     opacity: 0.9;
+ }
+
+ th,
+ td {
+     border: 1px solid #fff;
+     padding: 12px;
+     text-align: left;
+     transition: background-color 0.3s;
+ }
+
+ th {
+     background-color: rgba(0, 0, 31, 0.7);
+     /* Dark blue with opacity */
+ }
+
+ tr:hover {
+     background-color: rgba(255, 255, 255, 0.1);
+     /* Slight transparency on hover */
+ }
+
+ .team-logo {
+     max-width: 37px;
+     max-height: 37px;
+     display: block;
+     margin: 0 auto;
+     transition: transform 0.3s;
+ }
+
+ .team-logo:hover {
+     transform: scale(1.5);
+ }
