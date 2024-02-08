@@ -111,7 +111,7 @@ List down all the future plans for the project here
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Riyansh](https://github.com/): Email 
+- [Team Member 1 Riyansh](https://github.com/): Email (riyanshverma05@gmail.com)
 - [Team Member 2 Kinshuk](https://github.com/): Email (kinshuktrivedi03@gmail.com)
 - [Team Member 1 Darshana](https://github.com/): Email (darshana23.gupta@gmail.com)
 - [Team Member 1 Nitin](https://github.com/): Email 
