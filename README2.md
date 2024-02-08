@@ -161,12 +161,3 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - [Mentor 1 Ananya](https://github.com/): Email 
 - [Mentor 2 Rushi](https://github.com/): Email 
 
-## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://drive.google.com/file/d/1KO-6CVfQJku8j6ohWfUIH1dRlIfaR8rz/view?usp=drive_link "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
