@@ -113,8 +113,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 - [Team Member 1 Riyansh](https://github.com/): Email (riyanshverma05@gmail.com)
 - [Team Member 2 Kinshuk](https://github.com/): Email (kinshuktrivedi03@gmail.com)
-- [Team Member 1 Darshana](https://github.com/): Email (darshana23.gupta@gmail.com)
-- [Team Member 1 Nitin](https://github.com/): Email 
+- [Team Member 3 Darshana](https://github.com/): Email (darshana23.gupta@gmail.com)
+- [Team Member 4 Nitin](https://github.com/): Email 
 
 ## 👨‍🏫Mentors
 
