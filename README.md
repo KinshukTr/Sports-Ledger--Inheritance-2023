@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
-    <img src="./Untitled.png" alt="CoC Inheritance 2022" width="500" height="166">
+    <img src="./Untitled.png" alt="CoC Inheritance 2024" width="500" height="166">
   </a>
   <br>
   Project Name
@@ -128,3 +128,5 @@ You'll have to link the screenshots from your drive folder here.
 
 Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+
+
