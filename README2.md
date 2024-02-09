@@ -1,4 +1,4 @@
-# Project_Skeleton
+# Binary Beasts 
 
 <h1 align="center">
   <a href="https://github.com/CommunityOfCoders/Inheritance-2023">
