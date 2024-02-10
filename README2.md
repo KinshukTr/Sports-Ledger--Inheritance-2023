@@ -143,7 +143,29 @@ List down all the future plans for the project here
 
 ## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+>STEP-1: SETUP
+1. Installations: Start by installing VS code to support all web-based applications to configure the idea. To meet the required dependencies, run “npm-install” in the project directory to install all the necessary packages.
+2. Configuration: Configure your environment variables. Set up API links for accessing external database connections and services by using custom settings.
+3. Build: Once the required server and configurations are set, build the static pages using npm run build.
+
+STEP-2: RUNNING THE PROJECT
+1. Start the Server: Launch the server by running `npm start`. This command will start the development server and make the application
+accessible locally.
+2. Access the Application: Open your web browser and navigate to the provided URL (usually `http://localhost:5500` by default) to access
+the Sport Ledger pages.
+
+STEP- 3: EXPLORING FEATURES
+1. User Registration/Login: If you're a new user, sign up for an account on Sport Ledger by providing your details and creating a
+password. If you already have an account, simply log in using your credentials.
+2. Smart Contracts and Funds Transfer: You can receive or transfer funds as a part of any cricketing organisation more securely and
+efficiently through smart contracts. Simply set up meta mask and link it with smart contracts to access the payment portal.
+3. Player Analysis and Rankings: Dive deep into player statistics and performance analysis. Explore historical data, player profiles, and compare player statistics across matches and tournaments.
+
+STEP- 4: FEEDBACK AND SUPPORT
+1. Provide Feedback: We value your feedback! Share your thoughts, suggestions, and ideas for improving Sport Ledger. You can submit
+feedback through the platform's feedback form or contact our support team directly.
+2. Get Support: If you encounter any issues or have questions about using Sport Ledger, reach out to our support team for assistance. You can find contact information on the platform or visit our support page for FAQs and troubleshooting tips.
+
 
 ## 👨‍💻Team Members
 
@@ -158,6 +180,6 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Ananya](https://github.com/): Email 
-- [Mentor 2 Rushi](https://github.com/): Email 
+- [Mentor 1 Ananya](https://github.com/ananya-bangera/): Email (agbangera_b20@ce.vjti.ac.in) 
+- [Mentor 2 Rushi](https://github.com/R-V-J): Email (rvjani_b21@et.vjti.ac.in)
 
