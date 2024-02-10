@@ -180,6 +180,6 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Ananya](): Email (agbangera_b20@ce.vjti.ac.in), Github (https://github.com/ananya-bangera/)
-- [Mentor 2 Rushi](): Email (rvjani_b21@et.vjti.ac.in), Github (https://github.com/R-V-J)
+- [Mentor 1 Ananya](https://github.com/ananya-bangera/): Email (agbangera_b20@ce.vjti.ac.in)
+- [Mentor 2 Rushi](https://github.com/R-V-J): Email (rvjani_b21@et.vjti.ac.in)
 
