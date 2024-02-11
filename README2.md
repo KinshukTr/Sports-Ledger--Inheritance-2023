@@ -171,15 +171,14 @@ feedback through the platform's feedback form or contact our support team direct
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Team Member 1 Riyansh](https://github.com/): Email (riyanshverma05@gmail.com)
-- [Team Member 2 Kinshuk](https://github.com/): Email (kinshuktrivedi03@gmail.com)
-- [Team Member 3 Darshana](https://github.com/): Email (darshana23.gupta@gmail.com)
-- [Team Member 4 Nitin](https://github.com/): Email 
+- [Team Member 1 Riyansh Verma](https://github.com/): Email (riyanshverma05@gmail.com)
+- [Team Member 2 Kinshuk Trivedi](https://github.com/): Email (kinshuktrivedi03@gmail.com)
+- [Team Member 3 Darshana Gupta](https://github.com/): Email (darshana23.gupta@gmail.com)
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 Ananya](https://github.com/ananya-bangera/): Email (agbangera_b20@ce.vjti.ac.in)
-- [Mentor 2 Rushi](https://github.com/R-V-J): Email (rvjani_b21@et.vjti.ac.in)
+- [Mentor 1 Ananya Bangera](https://github.com/ananya-bangera/): Email (agbangera_b20@ce.vjti.ac.in)
+- [Mentor 2 Rushi Jani](https://github.com/R-V-J): Email (rvjani_b21@et.vjti.ac.in)
 
